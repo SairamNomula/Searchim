@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Image Search App
+
+### Technologies used
+    * ReactJs
+    * HTML5
+    * CSS
+    * Javascript
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/78247889/139894092-f95355e9-c7d1-44ed-9df0-898d1344b3ce.png)
+
+![image](https://user-images.githubusercontent.com/78247889/139902923-4918c616-7f77-4bc1-846a-0f8e9f9f42a1.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
